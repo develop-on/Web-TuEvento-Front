@@ -88,7 +88,6 @@ p {
 
 /* Header Styles
 ---------------------------------*/
-
 .header {   
       background-image: url("../img/header.jpg");
       padding: 180px;
@@ -153,7 +152,7 @@ p {
     position: absolute;
     left: 0;
     right: 0;
-    z-index: 80;
+    z-index: 70;
 }
 
 .res-nav_click {
@@ -353,6 +352,7 @@ a.read_more2:hover {
 ---------------------------------*/
 
 #service {
+    margin-top: 450px;
     padding: 60px 0px;
     background: #EFEFEF;
 }
