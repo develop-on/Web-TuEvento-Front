@@ -23,7 +23,13 @@ img {
     max-width: 100%;
 }
 
+.btn, .btn:hover, .btn:active {
+    color: #C7C7C7;
+    outline: 0px !important;
+}
+
 a, a:hover, a:active {
+    color: #C7C7C7;
     outline: 0px !important;
 }
 .clear {
@@ -973,7 +979,6 @@ img {
 }
 
 .footer_bottom {
-    border-top: 1px solid #3C3A3A;
     padding: 25px 0;
 }
 
@@ -1767,12 +1772,12 @@ div.mc-image {
 #parallax {
   /* background-image: url(../images/blue_mac2.jpg); */
   color: white;
-  background: #db5252;
+  background: #67586F;
 }
 #contact {
   background-image: url(../images/newsletter-bg.png);
   color: white;
-  background-color: #405162;
+  background-color: #67586F;
 }
 #parallax h1{
   margin-bottom: 60px;
